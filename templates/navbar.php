@@ -1,9 +1,9 @@
 <!-- Dropdown Structure -->
  <ul id="dropdown1" class="dropdown-content">
-  <li><a href="#!">one</a></li>
-  <li><a href="#!">two</a></li>
+  <li><a href="#!">favourates</a></li>
+  <li><a href="#!">support</a></li>
   <li class="divider"></li>
-  <li><a href="#!">three</a></li>
+  <li><a href="#!">logout</a></li>
 </ul>
 
 <nav class="indigo">
@@ -13,9 +13,9 @@
       <li><a href="sass.html">username</a></li>
       <li><a href="badges.html">history</a></li>
       <li><a href="badges.html">about</a></li>
-      <li><a href="badges.html">cart</a></li>
+      <li><a href="badges.html"><i class="material-icons">shopping_cart</i></a></li>
       <!-- Dropdown Trigger -->
-      <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Dropdown<i class="material-icons right">arrow_drop_down</i></a></li>
+      <li><a class="dropdown-trigger" href="#!" data-target="dropdown1"><i class="material-icons right">reorder</i></a></li>
     </ul>
   </div>
 </nav>
